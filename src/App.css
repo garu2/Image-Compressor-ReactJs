@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input[type="file"] {
+  border: 2px dashed #646cff;
+  height: 150px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: transparent;
+  position: relative;
+}
+input[type="file"]::file-selector-button {
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container-images {
+  display: flex;
+  gap: 10px
+}
+.container-images img {
+  max-width: 300px;
+}
+.container-images a {
+  border: 2px solid #646cff;
+  padding: 7px 15px;
+  margin-top: 15px;
+  display: block;
+  border-radius: 8px;
+  max-width: 150px;
+  text-align: center;
+  margin: 15px auto 0;
+}
+
+  
