@@ -1,12 +1,35 @@
-# React + Vite
+# 🖼️ Image Compressor ReactJs
+![QR Generator](public/compressImage.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 DEMO
+### [Deploy](https://image-compressor-react-js.vercel.app/)
 
-Currently, two official plugins are available:
+## 💻 Tutorial
+<a href='https://youtu.be/00000000' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/00000000/mqdefault.jpg' alt='TodoList' />
+</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Features
+- Compress image
+- Download compressed image
 
-## Expanding the ESLint configuration
+## 📦 Getting Started
+```
+git clone https://github.com/garu2/Image-Compressor-ReactJs.git
+```
+```
+cd Image-Compressor-ReactJs
+```
+```
+npm install
+```
+```
+npm run dev
+```
+The app will be available at `http://localhost:5173`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Technologies
+* [Vite.js](https://vitejs.dev/)
+* [React](https://reactjs.org/)
+* [Vercel](https://vercel.com/)
+
