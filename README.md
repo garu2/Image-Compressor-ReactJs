@@ -5,8 +5,8 @@
 ### [Deploy](https://image-compressor-react-js.vercel.app/)
 
 ## 💻 Tutorial
-<a href='https://youtu.be/00000000' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/00000000/mqdefault.jpg' alt='TodoList' />
+<a href='https://youtu.be/yiD1W3-XV6k' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/yiD1W3-XV6k/mqdefault.jpg' alt='TodoList' />
 </a>
 
 ## 📋 Features
